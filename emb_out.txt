@@ -1,0 +1,31 @@
+==============================================================
+RosterIQ - Embedding Store Self-Test
+==============================================================
+[episodic_memory] DB initialised at: embedding_store_test.db
+[episodic_memory] Episode written - id=1, session=test-session
+[episodic_memory] Episode written - id=2, session=test-session
+[episodic_memory] Episode written - id=3, session=test-session
+
+[test] Episodes written: ids = 1, 2, 3
+
+[test] Building embeddings...
+[test] Vectors stored: 3  (shape: (3, 384))
+
+[test] Query A: 'Are there any credentialing gaps or provider shortages in rural Kansas?'
+  Top episode ids (most -> least similar): [1, 3, 2]
+  [PASS] Episode 1 (Kansas gap analysis) ranked #1 as expected.
+
+[test] Query B: 'Which regions are losing the most providers due to attrition or burnout?'
+  Top episode ids (most -> least similar): [3, 2, 1]
+  [PASS] Episode 3 (attrition analysis) ranked #1 as expected.
+
+[test] Clearing vector store and reloading from DB...
+[embedding_store] Loaded 3 episode(s) from 'embedding_store_test.db'.
+  [PASS] Reloaded 3 episodes � count matches original.
+  Vector store shape after reload: (3, 384)
+
+[OK] All embedding store tests passed.
+==============================================================
+2026-03-13 12:12:03.090011: I tensorflow/core/util/port.cc:113] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+WARNING:tensorflow:From C:\Users\varun\anaconda3\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
