@@ -1,0 +1,20 @@
+[
+    {
+        "name": "generate_state_audit",
+        "description": "Generate a full quality audit for a specific state including volume and success rates.",
+        "sql": "SELECT ORG_NM, TOT_FILE_CNT, SCS_CNT, SCS_PCT_FILE FROM audit_base WHERE (CNT_STATE = ? OR ? IS NULL) ORDER BY TOT_FILE_CNT DESC",
+        "params": ["state", "state"]
+    },
+    {
+        "name": "check_stuck_pipeline",
+        "description": "Find all files stuck or stopped in a specific stage for a state.",
+        "sql": "SELECT ID, ORG_NM, LATEST_STAGE_NM, DART_REVIEW_HEALTH FROM stuck_base WHERE (CNT_STATE = ? OR ? IS NULL) AND (LATEST_STAGE_NM = ? OR ? IS NULL)",
+        "params": ["state", "state", "stage", "stage"]
+    },
+    {
+        "name": "retry_improvement_tracker",
+        "description": "Find organizations where retries (Run 2+) significantly improved success rates.",
+        "sql": "SELECT ORG_NM, RUN_NO, SCS_PCT_FILE FROM retry_base WHERE (CNT_STATE = ? OR ? IS NULL) AND RUN_NO <= 2 ORDER BY ORG_NM, RUN_NO",
+        "params": ["state", "state"]
+    }
+]

@@ -1,0 +1,3190 @@
+[
+  {
+    "text": "How many ROs are currently stuck?",
+    "label": "data_query"
+  },
+  {
+    "text": "Show me all failed ROs in Kansas",
+    "label": "data_query"
+  },
+  {
+    "text": "What is the rejection rate for each organization?",
+    "label": "data_query"
+  },
+  {
+    "text": "List all ROs with IS_STUCK equal to 1",
+    "label": "data_query"
+  },
+  {
+    "text": "Show me ROs in the PRE_PROCESSING stage",
+    "label": "data_query"
+  },
+  {
+    "text": "How many ROs failed in the last batch run?",
+    "label": "data_query"
+  },
+  {
+    "text": "What is the failure rate for Medicare HMO?",
+    "label": "data_query"
+  },
+  {
+    "text": "Show me all ROs where IS_FAILED is 1",
+    "label": "data_query"
+  },
+  {
+    "text": "List organizations with rejection rate above 30 percent",
+    "label": "data_query"
+  },
+  {
+    "text": "How many ROs are in DART generation stage?",
+    "label": "data_query"
+  },
+  {
+    "text": "Show me all ROs for Aetna in Kansas",
+    "label": "data_query"
+  },
+  {
+    "text": "What is the health score for each state?",
+    "label": "data_query"
+  },
+  {
+    "text": "List ROs with DART_GEN_HEALTH marked as Red",
+    "label": "data_query"
+  },
+  {
+    "text": "How many ROs were received this month?",
+    "label": "data_query"
+  },
+  {
+    "text": "Show me all ROs with FILE_STATUS_CD 45",
+    "label": "data_query"
+  },
+  {
+    "text": "What organizations have the highest failure rate?",
+    "label": "data_query"
+  },
+  {
+    "text": "Show me ROs stuck in ISF generation",
+    "label": "data_query"
+  },
+  {
+    "text": "How many ROs are in SPS_LOAD stage?",
+    "label": "data_query"
+  },
+  {
+    "text": "List all ROs with health score below 50",
+    "label": "data_query"
+  },
+  {
+    "text": "Show me failed ROs for Medicaid FFS",
+    "label": "data_query"
+  },
+  {
+    "text": "What is the average DART generation duration?",
+    "label": "data_query"
+  },
+  {
+    "text": "How many ROs have dominant problem in mapping?",
+    "label": "data_query"
+  },
+  {
+    "text": "Show me all ROs for run number 5",
+    "label": "data_query"
+  },
+  {
+    "text": "List ROs where SPS_LOAD_HEALTH is Red",
+    "label": "data_query"
+  },
+  {
+    "text": "How many ROs are anomalies?",
+    "label": "data_query"
+  },
+  {
+    "text": "Show me all ROs received in January",
+    "label": "data_query"
+  },
+  {
+    "text": "What is the rejection rate for Commercial PPO?",
+    "label": "data_query"
+  },
+  {
+    "text": "List ROs with failure status MAPPING_ERROR",
+    "label": "data_query"
+  },
+  {
+    "text": "How many ROs are in DART review?",
+    "label": "data_query"
+  },
+  {
+    "text": "Show me all ROs for source system EDI",
+    "label": "data_query"
+  },
+  {
+    "text": "What is the average ISF generation duration by state?",
+    "label": "data_query"
+  },
+  {
+    "text": "List organizations with more than 100 stuck ROs",
+    "label": "data_query"
+  },
+  {
+    "text": "Show me ROs where mapping approval took more than 5 days",
+    "label": "data_query"
+  },
+  {
+    "text": "How many ROs have health score above 80?",
+    "label": "data_query"
+  },
+  {
+    "text": "Show me all ROs for Medicare Advantage in Texas",
+    "label": "data_query"
+  },
+  {
+    "text": "What is the total RO count by LOB?",
+    "label": "data_query"
+  },
+  {
+    "text": "List all ROs created this week",
+    "label": "data_query"
+  },
+  {
+    "text": "Show me ROs with pre-processing health marked Yellow",
+    "label": "data_query"
+  },
+  {
+    "text": "How many ROs failed validation?",
+    "label": "data_query"
+  },
+  {
+    "text": "Show me all ROs with batch run ID 1234",
+    "label": "data_query"
+  },
+  {
+    "text": "What organizations are in Kansas?",
+    "label": "data_query"
+  },
+  {
+    "text": "List ROs with SPS load duration above average",
+    "label": "data_query"
+  },
+  {
+    "text": "Show me all stuck ROs for United Health",
+    "label": "data_query"
+  },
+  {
+    "text": "How many ROs are in each pipeline stage?",
+    "label": "data_query"
+  },
+  {
+    "text": "What is the failure rate by source system?",
+    "label": "data_query"
+  },
+  {
+    "text": "Show me ROs with DART review duration over 3 days",
+    "label": "data_query"
+  },
+  {
+    "text": "List all ROs where IS_ANOMALY is 1",
+    "label": "data_query"
+  },
+  {
+    "text": "How many ROs were processed last month?",
+    "label": "data_query"
+  },
+  {
+    "text": "Show me all ROs with rejection rate above 50 percent",
+    "label": "data_query"
+  },
+  {
+    "text": "What is the count of ROs by file status code?",
+    "label": "data_query"
+  },
+  {
+    "text": "List ROs with missing mapping approval date",
+    "label": "data_query"
+  },
+  {
+    "text": "Show me all ROs for Cigna",
+    "label": "data_query"
+  },
+  {
+    "text": "How many ROs completed SPS load successfully?",
+    "label": "data_query"
+  },
+  {
+    "text": "What is the average health score by organization?",
+    "label": "data_query"
+  },
+  {
+    "text": "Show me all ROs in Red health status",
+    "label": "data_query"
+  },
+  {
+    "text": "List ROs that took more than 10 days to process",
+    "label": "data_query"
+  },
+  {
+    "text": "How many ROs are currently in DART UI validation?",
+    "label": "data_query"
+  },
+  {
+    "text": "Show me all ROs for Blue Cross Blue Shield",
+    "label": "data_query"
+  },
+  {
+    "text": "What is the rejection rate trend by month?",
+    "label": "data_query"
+  },
+  {
+    "text": "List ROs with failure status DART_ERROR",
+    "label": "data_query"
+  },
+  {
+    "text": "How many ROs have LOB Medicare HMO?",
+    "label": "data_query"
+  },
+  {
+    "text": "Show me all ROs received but not yet processed",
+    "label": "data_query"
+  },
+  {
+    "text": "What organizations have zero stuck ROs?",
+    "label": "data_query"
+  },
+  {
+    "text": "List all ROs with health score between 40 and 60",
+    "label": "data_query"
+  },
+  {
+    "text": "Show me ROs where ISF generation health is Red",
+    "label": "data_query"
+  },
+  {
+    "text": "How many ROs are stuck per state?",
+    "label": "data_query"
+  },
+  {
+    "text": "What is the average pre-processing duration?",
+    "label": "data_query"
+  },
+  {
+    "text": "Show me all ROs for Humana in Florida",
+    "label": "data_query"
+  },
+  {
+    "text": "List ROs with DART generation duration above 48 hours",
+    "label": "data_query"
+  },
+  {
+    "text": "How many ROs failed in pre-processing stage?",
+    "label": "data_query"
+  },
+  {
+    "text": "Show me all ROs with run number greater than 3",
+    "label": "data_query"
+  },
+  {
+    "text": "What is the failure rate for each batch run?",
+    "label": "data_query"
+  },
+  {
+    "text": "List ROs where dominant problem is rejection",
+    "label": "data_query"
+  },
+  {
+    "text": "Show me all ROs for Molina Healthcare",
+    "label": "data_query"
+  },
+  {
+    "text": "How many ROs are in Yellow health status?",
+    "label": "data_query"
+  },
+  {
+    "text": "What is the rejection rate for each LOB?",
+    "label": "data_query"
+  },
+  {
+    "text": "Show me ROs stuck for more than 7 days",
+    "label": "data_query"
+  },
+  {
+    "text": "List all ROs with file status 99",
+    "label": "data_query"
+  },
+  {
+    "text": "How many ROs have IS_FAILED equal to 0?",
+    "label": "data_query"
+  },
+  {
+    "text": "Show me all ROs processed by user admin",
+    "label": "data_query"
+  },
+  {
+    "text": "What is the count of ROs by state?",
+    "label": "data_query"
+  },
+  {
+    "text": "List ROs with SPS load health marked Red",
+    "label": "data_query"
+  },
+  {
+    "text": "Show me all ROs for WellCare",
+    "label": "data_query"
+  },
+  {
+    "text": "How many ROs completed successfully on first attempt?",
+    "label": "data_query"
+  },
+  {
+    "text": "What is the average DART UI validation duration?",
+    "label": "data_query"
+  },
+  {
+    "text": "Show me all ROs with DART gen health Yellow",
+    "label": "data_query"
+  },
+  {
+    "text": "List ROs received in the last 30 days",
+    "label": "data_query"
+  },
+  {
+    "text": "How many ROs have failure status SKIP?",
+    "label": "data_query"
+  },
+  {
+    "text": "Show me all ROs for Centene Corporation",
+    "label": "data_query"
+  },
+  {
+    "text": "What organizations have the most anomalies?",
+    "label": "data_query"
+  },
+  {
+    "text": "List ROs where pre-processing start date is null",
+    "label": "data_query"
+  },
+  {
+    "text": "How many ROs are stuck in mapping approval?",
+    "label": "data_query"
+  },
+  {
+    "text": "Show me all ROs with health score below 30",
+    "label": "data_query"
+  },
+  {
+    "text": "What is the rejection rate for Kansas this month?",
+    "label": "data_query"
+  },
+  {
+    "text": "List all ROs for LOB Medicaid FFS in Texas",
+    "label": "data_query"
+  },
+  {
+    "text": "Show me ROs with more than 5 run attempts",
+    "label": "data_query"
+  },
+  {
+    "text": "How many ROs were created today?",
+    "label": "data_query"
+  },
+  {
+    "text": "What is the average health score across all states?",
+    "label": "data_query"
+  },
+  {
+    "text": "Show me all ROs where FAILURE_STATUS is not null",
+    "label": "data_query"
+  },
+  {
+    "text": "Run the triage stuck ros procedure",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Execute market health report for all states",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Run record quality audit for Kansas",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Execute the retry effectiveness analysis",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Run triage procedure for Texas",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Execute record quality audit for all organizations",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Run the market health report",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Execute triage stuck ros for Medicare HMO",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Run retry effectiveness analysis for last month",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Execute the record quality audit now",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Run market health report for Kansas and Texas",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Execute triage for all stuck ROs",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Run the full diagnostic procedure",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Execute retry analysis for Medicaid FFS",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Run quality audit for United Health",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Execute the stuck RO triage procedure immediately",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Run market health check for all active markets",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Execute record audit for Commercial PPO",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Run the standard triage workflow",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Execute market health report for Florida",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Run retry effectiveness for this batch",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Execute the quality audit procedure now",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Run triage_stuck_ros for all states",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Execute market_health_report procedure",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Run record_quality_audit for Aetna",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Execute retry_effectiveness_analysis procedure",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Run the diagnostic triage now",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Execute full market analysis procedure",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Run quality check procedure for all orgs",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Execute stuck RO analysis workflow",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Run the health report procedure",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Execute triage for Kansas market",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Run audit procedure for this week",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Execute the standard diagnostic workflow",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Run market health procedure for Texas",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Execute triage procedure for Humana",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Run the retry analysis procedure",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Execute quality audit for all states now",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Run triage stuck ros procedure for Medicaid",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Execute the full diagnostic suite",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Run market health report for all regions",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Execute record quality check for Blue Cross",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Run the triage workflow for Medicare",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Execute retry effectiveness for batch 1234",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Run quality audit procedure immediately",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Execute the market health diagnostic",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Run stuck RO triage for Florida",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Execute the audit workflow for all orgs",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Run the retry analysis for this month",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Execute diagnostic procedure for Kansas market",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Run quality audit for Cigna",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Execute triage procedure for all anomalies",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Run the health check workflow now",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Execute market analysis for Medicaid FFS",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Run record audit for all Medicare plans",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Execute the full triage suite for Texas",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Run retry effectiveness analysis now",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Execute quality procedure for WellCare",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Run the triage stuck ros workflow",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Execute market health check for Molina",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Run audit procedure for Commercial PPO",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Execute the diagnostic workflow for Florida",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Run health report procedure for all markets",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Execute triage for United Health ROs",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Run the record quality procedure",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Execute retry analysis workflow for June",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Run market health diagnostic for all states",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Execute quality audit procedure for Centene",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Run the triage procedure for batch run 5",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Execute stuck RO analysis for Medicare Advantage",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Run quality check for all Medicaid organizations",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Execute the health report for Texas market",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Run triage workflow for all anomalous ROs",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Execute market health report procedure now",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Run the standard audit workflow",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Execute retry effectiveness for Commercial plans",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Run triage stuck ros for all active states",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Execute the record audit for Humana",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Run the full market health procedure",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Execute quality audit for Medicare HMO",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Run retry analysis procedure for this quarter",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Execute triage procedure for all Red health ROs",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Run market health check for Cigna markets",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Execute the diagnostic audit now",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Run quality procedure for all LOBs",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Execute triage for stuck ISF generation ROs",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Run the market health report for Medicaid states",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Execute retry effectiveness analysis for all orgs",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Run audit workflow for this batch run",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Execute triage stuck ros immediately",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Run the health diagnostic procedure",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Execute quality audit for all active markets",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Run market health procedure for Medicare Advantage",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Execute the triage workflow for Centene",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Run record quality audit for all source systems",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Execute retry analysis for batch 5678",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Run the full diagnostic suite for all states",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Execute stuck RO triage for Commercial PPO",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Run quality check procedure for Molina Healthcare",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Execute market health report for all Medicaid markets",
+    "label": "run_procedure"
+  },
+  {
+    "text": "Give me an overall system health summary",
+    "label": "global_stat"
+  },
+  {
+    "text": "What is the total failure rate across all markets?",
+    "label": "global_stat"
+  },
+  {
+    "text": "How many ROs are in the system right now?",
+    "label": "global_stat"
+  },
+  {
+    "text": "Give me a system wide overview",
+    "label": "global_stat"
+  },
+  {
+    "text": "What is the overall rejection rate?",
+    "label": "global_stat"
+  },
+  {
+    "text": "Show me the total count of all ROs",
+    "label": "global_stat"
+  },
+  {
+    "text": "What is the system health status overall?",
+    "label": "global_stat"
+  },
+  {
+    "text": "Give me aggregate statistics for all markets",
+    "label": "global_stat"
+  },
+  {
+    "text": "What is the overall success rate across all states?",
+    "label": "global_stat"
+  },
+  {
+    "text": "Show me a complete system summary",
+    "label": "global_stat"
+  },
+  {
+    "text": "What are the total failures across all organizations?",
+    "label": "global_stat"
+  },
+  {
+    "text": "Give me the overall pipeline health",
+    "label": "global_stat"
+  },
+  {
+    "text": "What is the system wide anomaly count?",
+    "label": "global_stat"
+  },
+  {
+    "text": "Show me overall metrics for all markets",
+    "label": "global_stat"
+  },
+  {
+    "text": "What is the total number of stuck ROs system wide?",
+    "label": "global_stat"
+  },
+  {
+    "text": "Give me a high level dashboard summary",
+    "label": "global_stat"
+  },
+  {
+    "text": "What is the overall health score across all states?",
+    "label": "global_stat"
+  },
+  {
+    "text": "Show me aggregate failure statistics",
+    "label": "global_stat"
+  },
+  {
+    "text": "What is the total rejection count across the system?",
+    "label": "global_stat"
+  },
+  {
+    "text": "Give me a summary of all pipeline stages",
+    "label": "global_stat"
+  },
+  {
+    "text": "What are the overall system statistics?",
+    "label": "global_stat"
+  },
+  {
+    "text": "Show me the system wide health overview",
+    "label": "global_stat"
+  },
+  {
+    "text": "What is the total success count across all markets?",
+    "label": "global_stat"
+  },
+  {
+    "text": "Give me overall performance metrics",
+    "label": "global_stat"
+  },
+  {
+    "text": "What is the aggregate health score?",
+    "label": "global_stat"
+  },
+  {
+    "text": "Show me system level statistics",
+    "label": "global_stat"
+  },
+  {
+    "text": "What is the overall pipeline performance?",
+    "label": "global_stat"
+  },
+  {
+    "text": "Give me a complete overview of all markets",
+    "label": "global_stat"
+  },
+  {
+    "text": "What are the total counts by health status?",
+    "label": "global_stat"
+  },
+  {
+    "text": "Show me the overall system dashboard",
+    "label": "global_stat"
+  },
+  {
+    "text": "What is the system wide failure summary?",
+    "label": "global_stat"
+  },
+  {
+    "text": "Give me aggregate metrics across all states",
+    "label": "global_stat"
+  },
+  {
+    "text": "What is the total anomaly rate system wide?",
+    "label": "global_stat"
+  },
+  {
+    "text": "Show me overall rejection statistics",
+    "label": "global_stat"
+  },
+  {
+    "text": "What is the system health at a glance?",
+    "label": "global_stat"
+  },
+  {
+    "text": "Give me a bird's eye view of all markets",
+    "label": "global_stat"
+  },
+  {
+    "text": "What are the system wide totals?",
+    "label": "global_stat"
+  },
+  {
+    "text": "Show me the complete health summary",
+    "label": "global_stat"
+  },
+  {
+    "text": "What is the overall stuck RO rate?",
+    "label": "global_stat"
+  },
+  {
+    "text": "Give me total counts for all intent categories",
+    "label": "global_stat"
+  },
+  {
+    "text": "What is the system wide success percentage?",
+    "label": "global_stat"
+  },
+  {
+    "text": "Show me aggregate statistics across all organizations",
+    "label": "global_stat"
+  },
+  {
+    "text": "What are the overall pipeline metrics?",
+    "label": "global_stat"
+  },
+  {
+    "text": "Give me a summary of system performance",
+    "label": "global_stat"
+  },
+  {
+    "text": "What is the total count of anomalies across all markets?",
+    "label": "global_stat"
+  },
+  {
+    "text": "Show me system wide health indicators",
+    "label": "global_stat"
+  },
+  {
+    "text": "What is the overall health of the pipeline?",
+    "label": "global_stat"
+  },
+  {
+    "text": "Give me statistics for the entire system",
+    "label": "global_stat"
+  },
+  {
+    "text": "What are the total failures and successes system wide?",
+    "label": "global_stat"
+  },
+  {
+    "text": "Show me the aggregate rejection rate",
+    "label": "global_stat"
+  },
+  {
+    "text": "What is the overall market performance summary?",
+    "label": "global_stat"
+  },
+  {
+    "text": "Give me a complete system health report",
+    "label": "global_stat"
+  },
+  {
+    "text": "What are the system wide averages?",
+    "label": "global_stat"
+  },
+  {
+    "text": "Show me total RO counts by status",
+    "label": "global_stat"
+  },
+  {
+    "text": "What is the overall pipeline efficiency?",
+    "label": "global_stat"
+  },
+  {
+    "text": "Give me aggregate health scores for all states",
+    "label": "global_stat"
+  },
+  {
+    "text": "What is the system wide stuck rate?",
+    "label": "global_stat"
+  },
+  {
+    "text": "Show me overall failure trends",
+    "label": "global_stat"
+  },
+  {
+    "text": "What are the total counts across all LOBs?",
+    "label": "global_stat"
+  },
+  {
+    "text": "Give me a summary of all pipeline failures",
+    "label": "global_stat"
+  },
+  {
+    "text": "What is the overall system performance today?",
+    "label": "global_stat"
+  },
+  {
+    "text": "Show me aggregate metrics for the entire pipeline",
+    "label": "global_stat"
+  },
+  {
+    "text": "What is the total count of Red health ROs system wide?",
+    "label": "global_stat"
+  },
+  {
+    "text": "Give me overall statistics for all batch runs",
+    "label": "global_stat"
+  },
+  {
+    "text": "What are the system wide rejection trends?",
+    "label": "global_stat"
+  },
+  {
+    "text": "Show me the complete failure summary",
+    "label": "global_stat"
+  },
+  {
+    "text": "What is the overall anomaly rate across all markets?",
+    "label": "global_stat"
+  },
+  {
+    "text": "Give me total counts for all health statuses",
+    "label": "global_stat"
+  },
+  {
+    "text": "What is the system health summary for today?",
+    "label": "global_stat"
+  },
+  {
+    "text": "Show me aggregate data for all organizations",
+    "label": "global_stat"
+  },
+  {
+    "text": "What are the overall trends in pipeline performance?",
+    "label": "global_stat"
+  },
+  {
+    "text": "Give me a high level summary of all failures",
+    "label": "global_stat"
+  },
+  {
+    "text": "What is the total stuck RO count across all states?",
+    "label": "global_stat"
+  },
+  {
+    "text": "Show me system wide performance indicators",
+    "label": "global_stat"
+  },
+  {
+    "text": "What is the overall pipeline health score?",
+    "label": "global_stat"
+  },
+  {
+    "text": "Give me the complete system overview",
+    "label": "global_stat"
+  },
+  {
+    "text": "What are the aggregate statistics for this month?",
+    "label": "global_stat"
+  },
+  {
+    "text": "Show me overall health metrics for all markets",
+    "label": "global_stat"
+  },
+  {
+    "text": "What is the system wide rejection summary?",
+    "label": "global_stat"
+  },
+  {
+    "text": "Give me total anomaly counts for all states",
+    "label": "global_stat"
+  },
+  {
+    "text": "What is the overall success rate for this batch?",
+    "label": "global_stat"
+  },
+  {
+    "text": "Show me the system dashboard",
+    "label": "global_stat"
+  },
+  {
+    "text": "What are the total counts by pipeline stage?",
+    "label": "global_stat"
+  },
+  {
+    "text": "Give me aggregate failure rates across all LOBs",
+    "label": "global_stat"
+  },
+  {
+    "text": "What is the overall health of all markets combined?",
+    "label": "global_stat"
+  },
+  {
+    "text": "Show me system wide stuck RO statistics",
+    "label": "global_stat"
+  },
+  {
+    "text": "What are the overall metrics for this week?",
+    "label": "global_stat"
+  },
+  {
+    "text": "Give me a summary of system health indicators",
+    "label": "global_stat"
+  },
+  {
+    "text": "What is the total failure count system wide?",
+    "label": "global_stat"
+  },
+  {
+    "text": "Show me aggregate performance for all source systems",
+    "label": "global_stat"
+  },
+  {
+    "text": "What is the overall pipeline status?",
+    "label": "global_stat"
+  },
+  {
+    "text": "Give me system level health indicators",
+    "label": "global_stat"
+  },
+  {
+    "text": "What are the system wide success metrics?",
+    "label": "global_stat"
+  },
+  {
+    "text": "Show me overall statistics for all batch runs",
+    "label": "global_stat"
+  },
+  {
+    "text": "What is the total count of ROs by health status?",
+    "label": "global_stat"
+  },
+  {
+    "text": "Give me aggregate rejection rates for all markets",
+    "label": "global_stat"
+  },
+  {
+    "text": "What is the overall anomaly count for this month?",
+    "label": "global_stat"
+  },
+  {
+    "text": "Show me system wide failure statistics",
+    "label": "global_stat"
+  },
+  {
+    "text": "What are the total counts across all states combined?",
+    "label": "global_stat"
+  },
+  {
+    "text": "What did we find last time about Kansas?",
+    "label": "memory_recall"
+  },
+  {
+    "text": "Show me previous analysis results",
+    "label": "memory_recall"
+  },
+  {
+    "text": "What was the rejection rate we found earlier?",
+    "label": "memory_recall"
+  },
+  {
+    "text": "Recall what we discussed about Texas",
+    "label": "memory_recall"
+  },
+  {
+    "text": "What did the last analysis show?",
+    "label": "memory_recall"
+  },
+  {
+    "text": "Show me what we found in the previous session",
+    "label": "memory_recall"
+  },
+  {
+    "text": "What was the failure rate from before?",
+    "label": "memory_recall"
+  },
+  {
+    "text": "Recall the findings from last time",
+    "label": "memory_recall"
+  },
+  {
+    "text": "What did we analyze earlier about Humana?",
+    "label": "memory_recall"
+  },
+  {
+    "text": "Show me the previous results for Kansas",
+    "label": "memory_recall"
+  },
+  {
+    "text": "What were the findings from the last session?",
+    "label": "memory_recall"
+  },
+  {
+    "text": "Recall what we found about stuck ROs before",
+    "label": "memory_recall"
+  },
+  {
+    "text": "What did the prior analysis reveal?",
+    "label": "memory_recall"
+  },
+  {
+    "text": "Show me the history of Kansas analysis",
+    "label": "memory_recall"
+  },
+  {
+    "text": "What was discussed in the last session?",
+    "label": "memory_recall"
+  },
+  {
+    "text": "Recall the previous rejection rate findings",
+    "label": "memory_recall"
+  },
+  {
+    "text": "What did we find about United Health earlier?",
+    "label": "memory_recall"
+  },
+  {
+    "text": "Show me past analysis for Medicare HMO",
+    "label": "memory_recall"
+  },
+  {
+    "text": "What were the previous findings for Texas?",
+    "label": "memory_recall"
+  },
+  {
+    "text": "Recall what we analyzed about Medicaid FFS",
+    "label": "memory_recall"
+  },
+  {
+    "text": "What did the last diagnostic show?",
+    "label": "memory_recall"
+  },
+  {
+    "text": "Show me earlier findings about pipeline failures",
+    "label": "memory_recall"
+  },
+  {
+    "text": "What was the outcome of the previous analysis?",
+    "label": "memory_recall"
+  },
+  {
+    "text": "Recall the findings from our last conversation",
+    "label": "memory_recall"
+  },
+  {
+    "text": "What did we discover about Kansas before?",
+    "label": "memory_recall"
+  },
+  {
+    "text": "Show me the previous session results",
+    "label": "memory_recall"
+  },
+  {
+    "text": "What were the earlier findings for Aetna?",
+    "label": "memory_recall"
+  },
+  {
+    "text": "Recall what we found about DART generation issues",
+    "label": "memory_recall"
+  },
+  {
+    "text": "What did the prior session reveal about Florida?",
+    "label": "memory_recall"
+  },
+  {
+    "text": "Show me past findings for Commercial PPO",
+    "label": "memory_recall"
+  },
+  {
+    "text": "What was analyzed before about anomalies?",
+    "label": "memory_recall"
+  },
+  {
+    "text": "Recall the previous health score findings",
+    "label": "memory_recall"
+  },
+  {
+    "text": "What did we find in the last run?",
+    "label": "memory_recall"
+  },
+  {
+    "text": "Show me history of analysis for Cigna",
+    "label": "memory_recall"
+  },
+  {
+    "text": "What were the past results for SPS load failures?",
+    "label": "memory_recall"
+  },
+  {
+    "text": "Recall what we discussed about mapping errors",
+    "label": "memory_recall"
+  },
+  {
+    "text": "What did the previous analysis say about rejections?",
+    "label": "memory_recall"
+  },
+  {
+    "text": "Show me earlier results for Medicaid markets",
+    "label": "memory_recall"
+  },
+  {
+    "text": "What was found before about ISF generation?",
+    "label": "memory_recall"
+  },
+  {
+    "text": "Recall findings from the previous diagnostic",
+    "label": "memory_recall"
+  },
+  {
+    "text": "What did we analyze about Blue Cross earlier?",
+    "label": "memory_recall"
+  },
+  {
+    "text": "Show me the prior analysis for batch run 5",
+    "label": "memory_recall"
+  },
+  {
+    "text": "What were the previous findings about stuck ROs?",
+    "label": "memory_recall"
+  },
+  {
+    "text": "Recall what we found about health scores before",
+    "label": "memory_recall"
+  },
+  {
+    "text": "What did the last session show about Florida?",
+    "label": "memory_recall"
+  },
+  {
+    "text": "Show me past results for Medicare Advantage",
+    "label": "memory_recall"
+  },
+  {
+    "text": "What was the prior finding about rejection rates?",
+    "label": "memory_recall"
+  },
+  {
+    "text": "Recall what we discussed about pipeline bottlenecks",
+    "label": "memory_recall"
+  },
+  {
+    "text": "What did we find earlier about WellCare?",
+    "label": "memory_recall"
+  },
+  {
+    "text": "Show me previous analysis of DART review issues",
+    "label": "memory_recall"
+  },
+  {
+    "text": "What were the findings from before about Molina?",
+    "label": "memory_recall"
+  },
+  {
+    "text": "Recall the earlier diagnostic results",
+    "label": "memory_recall"
+  },
+  {
+    "text": "What did we analyze in the previous run?",
+    "label": "memory_recall"
+  },
+  {
+    "text": "Show me past findings for all stuck procedures",
+    "label": "memory_recall"
+  },
+  {
+    "text": "What was found before about Centene?",
+    "label": "memory_recall"
+  },
+  {
+    "text": "Recall what we discussed about health flags",
+    "label": "memory_recall"
+  },
+  {
+    "text": "What did the prior analysis show about anomalies?",
+    "label": "memory_recall"
+  },
+  {
+    "text": "Show me earlier results for mapping failures",
+    "label": "memory_recall"
+  },
+  {
+    "text": "What was analyzed before about Texas markets?",
+    "label": "memory_recall"
+  },
+  {
+    "text": "Recall findings from our last analysis session",
+    "label": "memory_recall"
+  },
+  {
+    "text": "What did we find about pre-processing issues before?",
+    "label": "memory_recall"
+  },
+  {
+    "text": "Show me the history of failure rate analysis",
+    "label": "memory_recall"
+  },
+  {
+    "text": "What were the previous results for ISF stage?",
+    "label": "memory_recall"
+  },
+  {
+    "text": "Recall what was found about DART UI validation before",
+    "label": "memory_recall"
+  },
+  {
+    "text": "What did the last run show for United Health?",
+    "label": "memory_recall"
+  },
+  {
+    "text": "Show me prior findings for all Red health markets",
+    "label": "memory_recall"
+  },
+  {
+    "text": "What was discussed earlier about batch run failures?",
+    "label": "memory_recall"
+  },
+  {
+    "text": "Recall the previous findings for Humana",
+    "label": "memory_recall"
+  },
+  {
+    "text": "What did we analyze before about SPS load issues?",
+    "label": "memory_recall"
+  },
+  {
+    "text": "Show me past analysis for all Medicare plans",
+    "label": "memory_recall"
+  },
+  {
+    "text": "What were the earlier findings about rejection spikes?",
+    "label": "memory_recall"
+  },
+  {
+    "text": "Recall what we found about mapping approval delays",
+    "label": "memory_recall"
+  },
+  {
+    "text": "What did the previous session say about Kansas?",
+    "label": "memory_recall"
+  },
+  {
+    "text": "Show me history of stuck RO analysis",
+    "label": "memory_recall"
+  },
+  {
+    "text": "What was found earlier about anomaly patterns?",
+    "label": "memory_recall"
+  },
+  {
+    "text": "Recall what we discussed about Commercial PPO before",
+    "label": "memory_recall"
+  },
+  {
+    "text": "What did we analyze about DART generation before?",
+    "label": "memory_recall"
+  },
+  {
+    "text": "Show me the prior results for all LOBs",
+    "label": "memory_recall"
+  },
+  {
+    "text": "What were the findings from the last analysis about Florida?",
+    "label": "memory_recall"
+  },
+  {
+    "text": "Recall what was found about pre-processing delays",
+    "label": "memory_recall"
+  },
+  {
+    "text": "What did the earlier diagnostic reveal about health scores?",
+    "label": "memory_recall"
+  },
+  {
+    "text": "Show me previous findings for all source systems",
+    "label": "memory_recall"
+  },
+  {
+    "text": "What was analyzed before about retry effectiveness?",
+    "label": "memory_recall"
+  },
+  {
+    "text": "Recall what we found about market health trends",
+    "label": "memory_recall"
+  },
+  {
+    "text": "What did the last session show about rejection patterns?",
+    "label": "memory_recall"
+  },
+  {
+    "text": "Show me past results for DART review bottlenecks",
+    "label": "memory_recall"
+  },
+  {
+    "text": "What were the prior findings for Medicaid markets?",
+    "label": "memory_recall"
+  },
+  {
+    "text": "Recall earlier analysis about pipeline stage failures",
+    "label": "memory_recall"
+  },
+  {
+    "text": "What did we discuss before about overall system health?",
+    "label": "memory_recall"
+  },
+  {
+    "text": "Show me history of anomaly detection results",
+    "label": "memory_recall"
+  },
+  {
+    "text": "What was found before about ISF generation delays?",
+    "label": "memory_recall"
+  },
+  {
+    "text": "Recall what we analyzed about Kansas rejection rates",
+    "label": "memory_recall"
+  },
+  {
+    "text": "What did the previous run show about SPS load health?",
+    "label": "memory_recall"
+  },
+  {
+    "text": "Show me prior findings for all anomalous organizations",
+    "label": "memory_recall"
+  },
+  {
+    "text": "What were the earlier results for batch processing?",
+    "label": "memory_recall"
+  },
+  {
+    "text": "Recall what we found about market health below threshold",
+    "label": "memory_recall"
+  },
+  {
+    "text": "What did we analyze before about stuck DART ROs?",
+    "label": "memory_recall"
+  },
+  {
+    "text": "Show me the history of procedure execution results",
+    "label": "memory_recall"
+  },
+  {
+    "text": "What was discussed earlier about overall failure trends?",
+    "label": "memory_recall"
+  },
+  {
+    "text": "Recall findings from the prior session about Texas",
+    "label": "memory_recall"
+  },
+  {
+    "text": "Search for recent CMS regulatory updates",
+    "label": "web_search"
+  },
+  {
+    "text": "Look up compliance rules for high rejection rates",
+    "label": "web_search"
+  },
+  {
+    "text": "Find recent news about Medicaid roster requirements",
+    "label": "web_search"
+  },
+  {
+    "text": "Search online for CMS roster submission guidelines",
+    "label": "web_search"
+  },
+  {
+    "text": "Look up recent changes to healthcare data standards",
+    "label": "web_search"
+  },
+  {
+    "text": "Find information about HIPAA roster compliance rules",
+    "label": "web_search"
+  },
+  {
+    "text": "Search for recent Medicaid policy changes",
+    "label": "web_search"
+  },
+  {
+    "text": "Look up CMS requirements for provider data submission",
+    "label": "web_search"
+  },
+  {
+    "text": "Find news about Medicare Advantage roster regulations",
+    "label": "web_search"
+  },
+  {
+    "text": "Search for recent updates to EDI transaction standards",
+    "label": "web_search"
+  },
+  {
+    "text": "Look up compliance requirements for rejection rates above 30 percent",
+    "label": "web_search"
+  },
+  {
+    "text": "Find recent regulatory changes affecting provider rosters",
+    "label": "web_search"
+  },
+  {
+    "text": "Search for CMS guidance on DART processing requirements",
+    "label": "web_search"
+  },
+  {
+    "text": "Look up recent news about Medicaid enrollment deadlines",
+    "label": "web_search"
+  },
+  {
+    "text": "Find information about state specific roster requirements",
+    "label": "web_search"
+  },
+  {
+    "text": "Search online for provider data quality standards",
+    "label": "web_search"
+  },
+  {
+    "text": "Look up recent CMS bulletins about roster processing",
+    "label": "web_search"
+  },
+  {
+    "text": "Find news about upcoming healthcare compliance deadlines",
+    "label": "web_search"
+  },
+  {
+    "text": "Search for regulatory updates affecting ISF generation",
+    "label": "web_search"
+  },
+  {
+    "text": "Look up compliance rules for SPS load failures",
+    "label": "web_search"
+  },
+  {
+    "text": "Find recent changes to Medicare provider enrollment",
+    "label": "web_search"
+  },
+  {
+    "text": "Search for CMS updates on mapping approval requirements",
+    "label": "web_search"
+  },
+  {
+    "text": "Look up news about Medicaid managed care roster rules",
+    "label": "web_search"
+  },
+  {
+    "text": "Find information about provider data submission penalties",
+    "label": "web_search"
+  },
+  {
+    "text": "Search online for recent healthcare data exchange standards",
+    "label": "web_search"
+  },
+  {
+    "text": "Look up CMS requirements for pre-processing compliance",
+    "label": "web_search"
+  },
+  {
+    "text": "Find news about state Medicaid roster submission rules",
+    "label": "web_search"
+  },
+  {
+    "text": "Search for recent updates affecting Commercial PPO rosters",
+    "label": "web_search"
+  },
+  {
+    "text": "Look up regulatory guidance on rejection rate thresholds",
+    "label": "web_search"
+  },
+  {
+    "text": "Find recent changes to DART review requirements",
+    "label": "web_search"
+  },
+  {
+    "text": "Search for compliance standards for provider data quality",
+    "label": "web_search"
+  },
+  {
+    "text": "Look up recent CMS notices about roster file formats",
+    "label": "web_search"
+  },
+  {
+    "text": "Find information about upcoming Medicaid policy changes",
+    "label": "web_search"
+  },
+  {
+    "text": "Search online for healthcare regulatory compliance updates",
+    "label": "web_search"
+  },
+  {
+    "text": "Look up news about Medicare Advantage enrollment rules",
+    "label": "web_search"
+  },
+  {
+    "text": "Find recent changes to provider data validation requirements",
+    "label": "web_search"
+  },
+  {
+    "text": "Search for CMS guidance on handling stuck ROs",
+    "label": "web_search"
+  },
+  {
+    "text": "Look up compliance requirements for ISF file submissions",
+    "label": "web_search"
+  },
+  {
+    "text": "Find news about state specific Medicaid data requirements",
+    "label": "web_search"
+  },
+  {
+    "text": "Search for recent updates to provider roster standards",
+    "label": "web_search"
+  },
+  {
+    "text": "Look up CMS rules for DART generation failures",
+    "label": "web_search"
+  },
+  {
+    "text": "Find information about regulatory penalties for data errors",
+    "label": "web_search"
+  },
+  {
+    "text": "Search online for recent changes to healthcare EDI standards",
+    "label": "web_search"
+  },
+  {
+    "text": "Look up news about Medicaid FFS roster requirements",
+    "label": "web_search"
+  },
+  {
+    "text": "Find recent CMS guidance on SPS load compliance",
+    "label": "web_search"
+  },
+  {
+    "text": "Search for regulatory updates affecting Medicare HMO rosters",
+    "label": "web_search"
+  },
+  {
+    "text": "Look up compliance rules for pre-processing failures",
+    "label": "web_search"
+  },
+  {
+    "text": "Find recent news about provider enrollment deadlines",
+    "label": "web_search"
+  },
+  {
+    "text": "Search for CMS updates on mapping approval standards",
+    "label": "web_search"
+  },
+  {
+    "text": "Look up information about DART UI validation requirements",
+    "label": "web_search"
+  },
+  {
+    "text": "Find news about recent changes to Commercial roster rules",
+    "label": "web_search"
+  },
+  {
+    "text": "Search online for healthcare data quality compliance standards",
+    "label": "web_search"
+  },
+  {
+    "text": "Look up recent CMS policy changes for Medicaid providers",
+    "label": "web_search"
+  },
+  {
+    "text": "Find information about state roster submission requirements",
+    "label": "web_search"
+  },
+  {
+    "text": "Search for recent updates to Medicare provider data rules",
+    "label": "web_search"
+  },
+  {
+    "text": "Look up compliance guidance for high failure rate markets",
+    "label": "web_search"
+  },
+  {
+    "text": "Find news about upcoming changes to EDI transaction codes",
+    "label": "web_search"
+  },
+  {
+    "text": "Search for CMS requirements for anomaly reporting",
+    "label": "web_search"
+  },
+  {
+    "text": "Look up recent regulatory changes for Medicaid managed care",
+    "label": "web_search"
+  },
+  {
+    "text": "Find information about provider data submission best practices",
+    "label": "web_search"
+  },
+  {
+    "text": "Search online for recent HIPAA updates affecting rosters",
+    "label": "web_search"
+  },
+  {
+    "text": "Look up news about CMS enforcement actions for data errors",
+    "label": "web_search"
+  },
+  {
+    "text": "Find recent guidance on handling DART generation failures",
+    "label": "web_search"
+  },
+  {
+    "text": "Search for regulatory updates for Medicare Advantage providers",
+    "label": "web_search"
+  },
+  {
+    "text": "Look up compliance rules for SPS load processing times",
+    "label": "web_search"
+  },
+  {
+    "text": "Find news about state Medicaid policy changes this year",
+    "label": "web_search"
+  },
+  {
+    "text": "Search for CMS guidance on handling rejection spikes",
+    "label": "web_search"
+  },
+  {
+    "text": "Look up recent updates to provider credentialing requirements",
+    "label": "web_search"
+  },
+  {
+    "text": "Find information about compliance thresholds for roster quality",
+    "label": "web_search"
+  },
+  {
+    "text": "Search online for recent healthcare regulatory news",
+    "label": "web_search"
+  },
+  {
+    "text": "Look up CMS rules for handling mapping approval delays",
+    "label": "web_search"
+  },
+  {
+    "text": "Find news about upcoming Medicaid roster submission deadlines",
+    "label": "web_search"
+  },
+  {
+    "text": "Search for regulatory guidance on provider data anomalies",
+    "label": "web_search"
+  },
+  {
+    "text": "Look up recent changes to Medicare enrollment standards",
+    "label": "web_search"
+  },
+  {
+    "text": "Find information about state specific DART requirements",
+    "label": "web_search"
+  },
+  {
+    "text": "Search for CMS updates on ISF generation standards",
+    "label": "web_search"
+  },
+  {
+    "text": "Look up compliance requirements for pre-processing delays",
+    "label": "web_search"
+  },
+  {
+    "text": "Find recent news about healthcare data exchange regulations",
+    "label": "web_search"
+  },
+  {
+    "text": "Search online for CMS provider data quality guidelines",
+    "label": "web_search"
+  },
+  {
+    "text": "Look up news about Medicaid managed care data requirements",
+    "label": "web_search"
+  },
+  {
+    "text": "Find recent regulatory updates for Commercial health plans",
+    "label": "web_search"
+  },
+  {
+    "text": "Search for guidance on handling high rejection rate markets",
+    "label": "web_search"
+  },
+  {
+    "text": "Look up CMS requirements for SPS load completion times",
+    "label": "web_search"
+  },
+  {
+    "text": "Find news about recent changes to provider roster formats",
+    "label": "web_search"
+  },
+  {
+    "text": "Search for compliance updates affecting all healthcare LOBs",
+    "label": "web_search"
+  },
+  {
+    "text": "Look up recent CMS notices about provider data standards",
+    "label": "web_search"
+  },
+  {
+    "text": "Find information about regulatory requirements for stuck ROs",
+    "label": "web_search"
+  },
+  {
+    "text": "Search online for state Medicaid compliance updates",
+    "label": "web_search"
+  },
+  {
+    "text": "Look up news about Medicare provider data submission rules",
+    "label": "web_search"
+  },
+  {
+    "text": "Find recent guidance on handling pipeline stage failures",
+    "label": "web_search"
+  },
+  {
+    "text": "Search for CMS updates on DART review processing times",
+    "label": "web_search"
+  },
+  {
+    "text": "Look up compliance rules for ISF file validation failures",
+    "label": "web_search"
+  },
+  {
+    "text": "Find news about upcoming changes to healthcare data standards",
+    "label": "web_search"
+  },
+  {
+    "text": "Search for regulatory updates affecting all market types",
+    "label": "web_search"
+  },
+  {
+    "text": "Look up CMS guidance on provider enrollment data quality",
+    "label": "web_search"
+  },
+  {
+    "text": "Find recent changes to state specific roster requirements",
+    "label": "web_search"
+  },
+  {
+    "text": "Search online for healthcare compliance best practices",
+    "label": "web_search"
+  },
+  {
+    "text": "Look up news about Medicaid FFS provider data rules",
+    "label": "web_search"
+  },
+  {
+    "text": "Find information about CMS penalties for roster data errors",
+    "label": "web_search"
+  },
+  {
+    "text": "Show me a chart of failure rates by state",
+    "label": "visualization"
+  },
+  {
+    "text": "Plot the rejection trend over time",
+    "label": "visualization"
+  },
+  {
+    "text": "Visualize pipeline stage bottlenecks",
+    "label": "visualization"
+  },
+  {
+    "text": "Create a bar chart of stuck ROs by organization",
+    "label": "visualization"
+  },
+  {
+    "text": "Show me a graph of health scores by market",
+    "label": "visualization"
+  },
+  {
+    "text": "Plot failure rates for each LOB",
+    "label": "visualization"
+  },
+  {
+    "text": "Visualize the rejection rate trend for Kansas",
+    "label": "visualization"
+  },
+  {
+    "text": "Create a pie chart of ROs by pipeline stage",
+    "label": "visualization"
+  },
+  {
+    "text": "Show me a line graph of success rates over time",
+    "label": "visualization"
+  },
+  {
+    "text": "Plot health scores across all states",
+    "label": "visualization"
+  },
+  {
+    "text": "Visualize stuck RO counts by organization",
+    "label": "visualization"
+  },
+  {
+    "text": "Create a chart of DART generation durations",
+    "label": "visualization"
+  },
+  {
+    "text": "Show me a graph of anomaly counts by state",
+    "label": "visualization"
+  },
+  {
+    "text": "Plot the overall failure trend this month",
+    "label": "visualization"
+  },
+  {
+    "text": "Visualize rejection rates for each LOB",
+    "label": "visualization"
+  },
+  {
+    "text": "Create a bar chart of health scores by market",
+    "label": "visualization"
+  },
+  {
+    "text": "Show me a trend chart of stuck ROs over time",
+    "label": "visualization"
+  },
+  {
+    "text": "Plot SPS load durations by organization",
+    "label": "visualization"
+  },
+  {
+    "text": "Visualize market health below threshold",
+    "label": "visualization"
+  },
+  {
+    "text": "Create a graph of failure rates by source system",
+    "label": "visualization"
+  },
+  {
+    "text": "Show me a chart of retry effectiveness",
+    "label": "visualization"
+  },
+  {
+    "text": "Plot pre-processing durations over time",
+    "label": "visualization"
+  },
+  {
+    "text": "Visualize health score distribution",
+    "label": "visualization"
+  },
+  {
+    "text": "Create a bar chart of rejections by state",
+    "label": "visualization"
+  },
+  {
+    "text": "Show me a line chart of overall system health",
+    "label": "visualization"
+  },
+  {
+    "text": "Plot anomaly rates across all markets",
+    "label": "visualization"
+  },
+  {
+    "text": "Visualize DART review duration trends",
+    "label": "visualization"
+  },
+  {
+    "text": "Create a chart of ISF generation failures",
+    "label": "visualization"
+  },
+  {
+    "text": "Show me a graph of pipeline stage performance",
+    "label": "visualization"
+  },
+  {
+    "text": "Plot rejection rates for all organizations",
+    "label": "visualization"
+  },
+  {
+    "text": "Visualize failure counts by LOB",
+    "label": "visualization"
+  },
+  {
+    "text": "Create a trend chart for market health scores",
+    "label": "visualization"
+  },
+  {
+    "text": "Show me a bar chart of stuck ROs by state",
+    "label": "visualization"
+  },
+  {
+    "text": "Plot health score trends for Kansas",
+    "label": "visualization"
+  },
+  {
+    "text": "Visualize SPS load success rates",
+    "label": "visualization"
+  },
+  {
+    "text": "Create a chart of mapping approval durations",
+    "label": "visualization"
+  },
+  {
+    "text": "Show me a graph of overall rejection trends",
+    "label": "visualization"
+  },
+  {
+    "text": "Plot failure rates across all batch runs",
+    "label": "visualization"
+  },
+  {
+    "text": "Visualize pre-processing health by organization",
+    "label": "visualization"
+  },
+  {
+    "text": "Create a bar chart of anomaly counts by market",
+    "label": "visualization"
+  },
+  {
+    "text": "Show me a trend line for system health",
+    "label": "visualization"
+  },
+  {
+    "text": "Plot DART generation health by state",
+    "label": "visualization"
+  },
+  {
+    "text": "Visualize rejection rate spikes over time",
+    "label": "visualization"
+  },
+  {
+    "text": "Create a chart of ISF generation durations",
+    "label": "visualization"
+  },
+  {
+    "text": "Show me a graph of stuck RO trends",
+    "label": "visualization"
+  },
+  {
+    "text": "Plot health scores for all active markets",
+    "label": "visualization"
+  },
+  {
+    "text": "Visualize overall pipeline performance",
+    "label": "visualization"
+  },
+  {
+    "text": "Create a bar chart of failures by pipeline stage",
+    "label": "visualization"
+  },
+  {
+    "text": "Show me a line chart of rejection rates",
+    "label": "visualization"
+  },
+  {
+    "text": "Plot SPS load duration trends",
+    "label": "visualization"
+  },
+  {
+    "text": "Visualize market health distribution",
+    "label": "visualization"
+  },
+  {
+    "text": "Create a chart comparing LOB failure rates",
+    "label": "visualization"
+  },
+  {
+    "text": "Show me a graph of DART UI validation durations",
+    "label": "visualization"
+  },
+  {
+    "text": "Plot overall success rates by month",
+    "label": "visualization"
+  },
+  {
+    "text": "Visualize anomaly distribution across states",
+    "label": "visualization"
+  },
+  {
+    "text": "Create a trend chart for rejection rates",
+    "label": "visualization"
+  },
+  {
+    "text": "Show me a bar chart of health scores by LOB",
+    "label": "visualization"
+  },
+  {
+    "text": "Plot pipeline stage bottlenecks over time",
+    "label": "visualization"
+  },
+  {
+    "text": "Visualize stuck RO trends by market",
+    "label": "visualization"
+  },
+  {
+    "text": "Create a chart of overall system health over time",
+    "label": "visualization"
+  },
+  {
+    "text": "Show me a graph of failure rates by organization",
+    "label": "visualization"
+  },
+  {
+    "text": "Plot rejection rate distribution",
+    "label": "visualization"
+  },
+  {
+    "text": "Visualize DART generation performance by state",
+    "label": "visualization"
+  },
+  {
+    "text": "Create a bar chart of success rates by market",
+    "label": "visualization"
+  },
+  {
+    "text": "Show me a line graph of anomaly trends",
+    "label": "visualization"
+  },
+  {
+    "text": "Plot health score distribution across all markets",
+    "label": "visualization"
+  },
+  {
+    "text": "Visualize pre-processing duration trends",
+    "label": "visualization"
+  },
+  {
+    "text": "Create a chart of mapping approval health",
+    "label": "visualization"
+  },
+  {
+    "text": "Show me a graph comparing market performance",
+    "label": "visualization"
+  },
+  {
+    "text": "Plot ISF generation success rates over time",
+    "label": "visualization"
+  },
+  {
+    "text": "Visualize failure rate trends by LOB",
+    "label": "visualization"
+  },
+  {
+    "text": "Create a trend chart for stuck RO counts",
+    "label": "visualization"
+  },
+  {
+    "text": "Show me a bar chart of rejection rates by source system",
+    "label": "visualization"
+  },
+  {
+    "text": "Plot overall health score trends",
+    "label": "visualization"
+  },
+  {
+    "text": "Visualize DART review health distribution",
+    "label": "visualization"
+  },
+  {
+    "text": "Create a chart of SPS load failures by state",
+    "label": "visualization"
+  },
+  {
+    "text": "Show me a graph of pipeline health over time",
+    "label": "visualization"
+  },
+  {
+    "text": "Plot anomaly counts by organization",
+    "label": "visualization"
+  },
+  {
+    "text": "Visualize market health trends for all states",
+    "label": "visualization"
+  },
+  {
+    "text": "Create a bar chart of stuck ROs by LOB",
+    "label": "visualization"
+  },
+  {
+    "text": "Show me a line chart of failure trends",
+    "label": "visualization"
+  },
+  {
+    "text": "Plot health scores for Medicare markets",
+    "label": "visualization"
+  },
+  {
+    "text": "Visualize rejection rate distribution by state",
+    "label": "visualization"
+  },
+  {
+    "text": "Create a trend chart for overall failure rates",
+    "label": "visualization"
+  },
+  {
+    "text": "Show me a graph of DART generation trends",
+    "label": "visualization"
+  },
+  {
+    "text": "Plot pipeline performance over the last month",
+    "label": "visualization"
+  },
+  {
+    "text": "Visualize ISF generation health by organization",
+    "label": "visualization"
+  },
+  {
+    "text": "Create a chart of pre-processing success rates",
+    "label": "visualization"
+  },
+  {
+    "text": "Show me a bar chart of anomaly rates by market",
+    "label": "visualization"
+  },
+  {
+    "text": "Plot SPS load health trends over time",
+    "label": "visualization"
+  },
+  {
+    "text": "Visualize overall system performance dashboard",
+    "label": "visualization"
+  },
+  {
+    "text": "Create a line chart of rejection rates by LOB",
+    "label": "visualization"
+  },
+  {
+    "text": "Show me a graph of stuck ROs over the last week",
+    "label": "visualization"
+  },
+  {
+    "text": "Plot market health scores for all active states",
+    "label": "visualization"
+  },
+  {
+    "text": "Visualize failure distribution across pipeline stages",
+    "label": "visualization"
+  },
+  {
+    "text": "Create a trend chart for DART UI validation durations",
+    "label": "visualization"
+  },
+  {
+    "text": "Show me a bar chart of health scores by source system",
+    "label": "visualization"
+  },
+  {
+    "text": "Plot overall rejection trends for this quarter",
+    "label": "visualization"
+  },
+  {
+    "text": "Visualize mapping approval duration distribution",
+    "label": "visualization"
+  },
+  {
+    "text": "Create a chart of system health indicators over time",
+    "label": "visualization"
+  },
+  {
+    "text": "Update the health score threshold to 90",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Modify the triage procedure to include LOB filter",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Change the below threshold value from 85 to 80",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Update the rejection rate threshold in the audit procedure",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Modify the market health report to include new states",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Change the stuck RO definition to include ISF stage",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Update the triage procedure parameters",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Modify the retry effectiveness analysis filter",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Change the health score calculation formula",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Update the anomaly detection threshold",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Modify the record quality audit for new LOBs",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Change the failure rate threshold to 25 percent",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Update the market health procedure to add Florida",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Modify the triage stuck ros filter criteria",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Change the below threshold definition",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Update the audit procedure to include new organizations",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Modify the health score weights in the procedure",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Change the retry analysis lookback period to 90 days",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Update the triage procedure for Medicare Advantage",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Modify the rejection rate calculation method",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Change the anomaly threshold from 2 to 3 standard deviations",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Update the market health report filter",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Modify the record quality audit threshold",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Change the triage procedure to exclude completed ROs",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Update the health score threshold from 70 to 80",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Modify the retry effectiveness formula",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Change the market health report to weekly frequency",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Update the stuck RO triage criteria",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Modify the audit procedure SQL query",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Change the below threshold percentage to 90",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Update the anomaly detection procedure",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Modify the triage filter to include all LOBs",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Change the health score formula in the procedure",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Update the rejection rate audit threshold",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Modify the market health procedure parameters",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Change the triage procedure to include DART stage",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Update the quality audit filter for new states",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Modify the retry analysis threshold value",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Change the anomaly flag criteria in the procedure",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Update the triage stuck ros to use new health formula",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Modify the record quality audit to add new metrics",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Change the market health threshold to 88 percent",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Update the procedure to include Medicaid FFS filter",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Modify the triage procedure SQL template",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Change the failure rate threshold in the audit",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Update the health report procedure to add new columns",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Modify the stuck RO filter to include mapping stage",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Change the retry effectiveness lookback to 60 days",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Update the anomaly detection threshold to 95th percentile",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Modify the triage procedure for Commercial PPO",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Change the market health procedure frequency",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Update the record audit to include new failure codes",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Modify the health score weights for DART stage",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Change the below threshold value to 82 percent",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Update the triage filter to exclude test organizations",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Modify the retry analysis to include new metrics",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Change the anomaly threshold in the quality procedure",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Update the market health report SQL query",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Modify the triage stuck ros to add new conditions",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Change the rejection rate formula in the audit procedure",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Update the procedure parameters for new LOB types",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Modify the health score calculation to add new stages",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Change the triage procedure to include SPS stage",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Update the anomaly detection to use rolling average",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Modify the quality audit to add rejection rate filter",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Change the market health threshold from 85 to 87",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Update the retry effectiveness procedure parameters",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Modify the triage filter criteria for Medicare markets",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Change the health score threshold to 75 percent",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Update the audit procedure to use new date range",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Modify the stuck RO definition in the triage procedure",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Change the below threshold to include retry count",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Update the market health SQL to add new joins",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Modify the triage procedure for Medicaid markets",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Change the anomaly flag to use IQR method",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Update the quality audit filter for all source systems",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Modify the retry analysis period to last 45 days",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Change the triage procedure health score cutoff",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Update the market health report to include trends",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Modify the procedure to add DART generation filter",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Change the rejection threshold in the quality audit",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Update the triage stuck ros parameters for new quarter",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Modify the health score formula to weight SPS higher",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Change the below threshold definition to include LOB",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Update the anomaly procedure to flag new patterns",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Modify the market health procedure to add new metrics",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Change the audit procedure SQL to improve performance",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Update the triage filter to include all health statuses",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Modify the retry effectiveness to add success rate metric",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Change the triage procedure to run on all batch types",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Update the quality audit threshold for new compliance rules",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Modify the market health report to add new states",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Change the health score cutoff from 60 to 65",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Update the stuck RO triage to include new stages",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Modify the anomaly detection to use new baseline",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Change the rejection rate audit to include all LOBs",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Update the retry analysis procedure SQL template",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Modify the triage procedure to add new filter conditions",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Change the market health threshold for Medicaid markets",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Update the quality audit to add new failure status codes",
+    "label": "procedure_update"
+  },
+  {
+    "text": "Analyze Kansas market then create a chart of findings",
+    "label": "multi_step"
+  },
+  {
+    "text": "Run triage procedure and then search for fixes online",
+    "label": "multi_step"
+  },
+  {
+    "text": "Show me stuck ROs then plot their duration distribution",
+    "label": "multi_step"
+  },
+  {
+    "text": "Query failed ROs in Texas and then visualize the results",
+    "label": "multi_step"
+  },
+  {
+    "text": "Run the market health report and then show me a chart",
+    "label": "multi_step"
+  },
+  {
+    "text": "Find stuck ROs in Kansas then search for regulatory fixes",
+    "label": "multi_step"
+  },
+  {
+    "text": "Execute triage procedure and then create a bar chart",
+    "label": "multi_step"
+  },
+  {
+    "text": "Show me rejection rates then plot the trend over time",
+    "label": "multi_step"
+  },
+  {
+    "text": "Run quality audit and then visualize the results",
+    "label": "multi_step"
+  },
+  {
+    "text": "Query anomalies in Florida and then show a graph",
+    "label": "multi_step"
+  },
+  {
+    "text": "Get the failure rate then create a trend chart",
+    "label": "multi_step"
+  },
+  {
+    "text": "Run triage stuck ros and then search CMS for solutions",
+    "label": "multi_step"
+  },
+  {
+    "text": "Show me health scores and then plot them by state",
+    "label": "multi_step"
+  },
+  {
+    "text": "Execute market health report then visualize all findings",
+    "label": "multi_step"
+  },
+  {
+    "text": "Find ROs in Red health then search for compliance rules",
+    "label": "multi_step"
+  },
+  {
+    "text": "Query stuck ROs then run the triage procedure on them",
+    "label": "multi_step"
+  },
+  {
+    "text": "Show overall stats and then create a summary chart",
+    "label": "multi_step"
+  },
+  {
+    "text": "Run retry analysis and then plot effectiveness trends",
+    "label": "multi_step"
+  },
+  {
+    "text": "Get rejection rates for Kansas then search for causes online",
+    "label": "multi_step"
+  },
+  {
+    "text": "Execute the audit procedure and then chart the results",
+    "label": "multi_step"
+  },
+  {
+    "text": "Show me failed ROs then visualize failure distribution",
+    "label": "multi_step"
+  },
+  {
+    "text": "Run market health check and then look up CMS guidelines",
+    "label": "multi_step"
+  },
+  {
+    "text": "Query anomaly counts then create a visualization",
+    "label": "multi_step"
+  },
+  {
+    "text": "Get health scores for all states then plot the comparison",
+    "label": "multi_step"
+  },
+  {
+    "text": "Run triage procedure then search for procedure improvements",
+    "label": "multi_step"
+  },
+  {
+    "text": "Show rejection trends and then look up compliance rules",
+    "label": "multi_step"
+  },
+  {
+    "text": "Execute quality audit then create a bar chart of results",
+    "label": "multi_step"
+  },
+  {
+    "text": "Find stuck ROs in DART stage then visualize their durations",
+    "label": "multi_step"
+  },
+  {
+    "text": "Get overall system stats and then plot health trends",
+    "label": "multi_step"
+  },
+  {
+    "text": "Run retry effectiveness analysis then chart the results",
+    "label": "multi_step"
+  },
+  {
+    "text": "Query failure rates by LOB then create a pie chart",
+    "label": "multi_step"
+  },
+  {
+    "text": "Show me Kansas metrics then search for state specific rules",
+    "label": "multi_step"
+  },
+  {
+    "text": "Execute market health report then look up recent CMS updates",
+    "label": "multi_step"
+  },
+  {
+    "text": "Find anomalies in Texas then visualize their distribution",
+    "label": "multi_step"
+  },
+  {
+    "text": "Run the triage procedure then plot stuck RO trends",
+    "label": "multi_step"
+  },
+  {
+    "text": "Get rejection rates by org then create a bar chart",
+    "label": "multi_step"
+  },
+  {
+    "text": "Query failed ROs then search for known failure patterns",
+    "label": "multi_step"
+  },
+  {
+    "text": "Show pipeline bottlenecks then look up optimization strategies",
+    "label": "multi_step"
+  },
+  {
+    "text": "Run quality audit for Kansas then visualize the findings",
+    "label": "multi_step"
+  },
+  {
+    "text": "Get health scores then search for improvement strategies",
+    "label": "multi_step"
+  },
+  {
+    "text": "Execute triage then create a summary visualization",
+    "label": "multi_step"
+  },
+  {
+    "text": "Find high rejection rate orgs then search for causes",
+    "label": "multi_step"
+  },
+  {
+    "text": "Run market health report then plot market comparisons",
+    "label": "multi_step"
+  },
+  {
+    "text": "Query stuck ROs by stage then visualize stage distribution",
+    "label": "multi_step"
+  },
+  {
+    "text": "Get overall failure stats then create a trend chart",
+    "label": "multi_step"
+  },
+  {
+    "text": "Run retry analysis then search for retry best practices",
+    "label": "multi_step"
+  },
+  {
+    "text": "Show me anomaly patterns then look up CMS anomaly guidelines",
+    "label": "multi_step"
+  },
+  {
+    "text": "Execute quality audit then search for compliance updates",
+    "label": "multi_step"
+  },
+  {
+    "text": "Find Red health markets then visualize their metrics",
+    "label": "multi_step"
+  },
+  {
+    "text": "Query failure trends then create a line graph",
+    "label": "multi_step"
+  },
+  {
+    "text": "Run triage procedure for Florida then chart the results",
+    "label": "multi_step"
+  },
+  {
+    "text": "Get rejection rates then search for rejection reduction strategies",
+    "label": "multi_step"
+  },
+  {
+    "text": "Show health score distribution then plot improvements needed",
+    "label": "multi_step"
+  },
+  {
+    "text": "Execute market health check then look up market specific rules",
+    "label": "multi_step"
+  },
+  {
+    "text": "Find stuck ISF generation ROs then visualize durations",
+    "label": "multi_step"
+  },
+  {
+    "text": "Run quality audit then search for audit improvement strategies",
+    "label": "multi_step"
+  },
+  {
+    "text": "Query pipeline performance then create a dashboard chart",
+    "label": "multi_step"
+  },
+  {
+    "text": "Get DART generation stats then search for optimization tips",
+    "label": "multi_step"
+  },
+  {
+    "text": "Show failure rates by LOB then plot LOB comparison chart",
+    "label": "multi_step"
+  },
+  {
+    "text": "Execute triage then search for triage best practices",
+    "label": "multi_step"
+  },
+  {
+    "text": "Find anomalous organizations then visualize their patterns",
+    "label": "multi_step"
+  },
+  {
+    "text": "Run market health report then look up threshold guidelines",
+    "label": "multi_step"
+  },
+  {
+    "text": "Query SPS load failures then create a failure trend chart",
+    "label": "multi_step"
+  },
+  {
+    "text": "Get health scores for Medicaid markets then plot comparison",
+    "label": "multi_step"
+  },
+  {
+    "text": "Show rejection spikes then search for regulatory causes",
+    "label": "multi_step"
+  },
+  {
+    "text": "Execute retry analysis then visualize effectiveness trends",
+    "label": "multi_step"
+  },
+  {
+    "text": "Find stuck ROs in Texas then search for solutions online",
+    "label": "multi_step"
+  },
+  {
+    "text": "Run the quality audit then chart audit findings",
+    "label": "multi_step"
+  },
+  {
+    "text": "Query overall system health then create a summary visual",
+    "label": "multi_step"
+  },
+  {
+    "text": "Get failure rates by state then plot state comparison",
+    "label": "multi_step"
+  },
+  {
+    "text": "Show me pipeline stage performance then search for improvements",
+    "label": "multi_step"
+  },
+  {
+    "text": "Execute triage procedure then look up stuck RO solutions",
+    "label": "multi_step"
+  },
+  {
+    "text": "Find high failure rate markets then visualize market health",
+    "label": "multi_step"
+  },
+  {
+    "text": "Run market health check then search for market improvements",
+    "label": "multi_step"
+  },
+  {
+    "text": "Query rejection rate trends then create a trend visualization",
+    "label": "multi_step"
+  },
+  {
+    "text": "Get anomaly counts by state then plot state anomaly map",
+    "label": "multi_step"
+  },
+  {
+    "text": "Show health indicators then search for health improvement rules",
+    "label": "multi_step"
+  },
+  {
+    "text": "Execute quality audit then visualize quality metrics",
+    "label": "multi_step"
+  },
+  {
+    "text": "Find DART generation bottlenecks then search for fixes",
+    "label": "multi_step"
+  },
+  {
+    "text": "Run triage then create a visualization of triage results",
+    "label": "multi_step"
+  },
+  {
+    "text": "Query stuck RO patterns then search for pattern causes",
+    "label": "multi_step"
+  },
+  {
+    "text": "Get overall stats then plot system performance trends",
+    "label": "multi_step"
+  },
+  {
+    "text": "Show rejection rates for Medicare then search for Medicare rules",
+    "label": "multi_step"
+  },
+  {
+    "text": "Execute market health report then visualize market trends",
+    "label": "multi_step"
+  },
+  {
+    "text": "Find ISF failures then search for ISF compliance requirements",
+    "label": "multi_step"
+  },
+  {
+    "text": "Run retry effectiveness then create a retry comparison chart",
+    "label": "multi_step"
+  },
+  {
+    "text": "Query health score distribution then plot health histogram",
+    "label": "multi_step"
+  },
+  {
+    "text": "Get failure stats for Medicaid then search for Medicaid rules",
+    "label": "multi_step"
+  },
+  {
+    "text": "Show me pipeline health then look up pipeline optimization tips",
+    "label": "multi_step"
+  },
+  {
+    "text": "Execute triage procedure then search for triage improvements",
+    "label": "multi_step"
+  },
+  {
+    "text": "Find stuck mapping ROs then visualize mapping stage issues",
+    "label": "multi_step"
+  },
+  {
+    "text": "Run quality audit then look up quality compliance standards",
+    "label": "multi_step"
+  },
+  {
+    "text": "Query anomaly trends then create an anomaly trend chart",
+    "label": "multi_step"
+  },
+  {
+    "text": "Get rejection patterns then search for pattern explanations",
+    "label": "multi_step"
+  },
+  {
+    "text": "Show market health scores then plot market health comparison",
+    "label": "multi_step"
+  },
+  {
+    "text": "Execute retry analysis then search for retry optimization",
+    "label": "multi_step"
+  },
+  {
+    "text": "Find Red health organizations then visualize their metrics",
+    "label": "multi_step"
+  },
+  {
+    "text": "Run triage then plot the triage results dashboard",
+    "label": "multi_step"
+  },
+  {
+    "text": "Query pipeline failures then search for failure root causes",
+    "label": "multi_step"
+  },
+  {
+    "text": "Get health scores by LOB then create a LOB health chart",
+    "label": "multi_step"
+  }
+]
